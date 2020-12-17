@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "921360948603",
+    "firebase_url": "https://rockpaperscissor-9770c.firebaseio.com",
+    "project_id": "rockpaperscissor-9770c",
+    "storage_bucket": "rockpaperscissor-9770c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921360948603:android:e5d5c8b0dac08a52",
+        "android_client_info": {
+          "package_name": "com.techstarworld.rockpaperscissor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921360948603-n85m4v43odgaa0q29tgp7lohcch0m8pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techstarworld.rockpaperscissor",
+            "certificate_hash": "4aa7069ff281bdeed0775be4f1ab39cad1bf08a3"
+          }
+        },
+        {
+          "client_id": "921360948603-pdfd03nkcnaabknpmsbj3nuhnelna3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYZdrtrGZ54Sr9ywIhpaYR558IHAm5EQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921360948603-pdfd03nkcnaabknpmsbj3nuhnelna3sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921360948603:android:6046a0ff07794381",
+        "android_client_info": {
+          "package_name": "com.techstarworld.truth_dare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921360948603-qhjhsgp9an7hjak4ma3po3d47e3lbhid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techstarworld.truth_dare",
+            "certificate_hash": "4aa7069ff281bdeed0775be4f1ab39cad1bf08a3"
+          }
+        },
+        {
+          "client_id": "921360948603-pdfd03nkcnaabknpmsbj3nuhnelna3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYZdrtrGZ54Sr9ywIhpaYR558IHAm5EQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921360948603-pdfd03nkcnaabknpmsbj3nuhnelna3sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
